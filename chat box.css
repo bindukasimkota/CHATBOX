@@ -1,0 +1,47 @@
+.background-image{
+    background-image:url('https://wallpapercave.com/wp/wp7130410.jpg');
+    height:500px;
+    width:800px;
+    margin:50px 100px 50px 300px;
+    
+}
+/* Title Name Chat Box */
+.heading{
+    color:white;
+    background-color:gray;
+    text-align: center;
+    
+}
+
+/* Sent message */
+.parablue{
+    background-color:darkcyan;
+    height:40px;
+    margin:10px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.sent{
+    text-align:right;
+    color: white;
+    padding:10px;
+    
+}
+
+
+/* Received message */
+.grey{
+    height:40px;
+    background-color:gainsboro;
+    margin:10px;
+    border-top-left-radius:8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.received{
+    text-align:left;
+    padding:10px;
+    
+}
+
